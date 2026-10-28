@@ -28,3 +28,6 @@ python main.py
 ```
 2. A window will open showing the live webcam feed.
 3. To exit the program, press the "q" key on your keyboard.
+
+## License
+This project is licensed under the PolyForm Noncommercial License 1.0.0. See the LICENSE file for details.
