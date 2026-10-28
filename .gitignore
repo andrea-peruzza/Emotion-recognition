@@ -1,3 +1,14 @@
+# Virtual ambient
+virtual/
+venv/
+env/
+# Python cache
+__pycache__/
+*.py[cod]
+# Configuration file IDE (se usi VS Code o PyCharm)
+.vscode/
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
